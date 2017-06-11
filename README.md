@@ -1,10 +1,6 @@
-# rails-icalendar-webcal
-Example Rails app implementing a webcal calendar with the icalendar gem
+# Webcal links in Rails with the icalendar gem
 
-What you need to know:
+This is a demo Ruby on Rails app that implements a webcal calendar link using
+the `icalendar` gem. See the [accompanying blog post] for more details.
 
-- Must use URL helpers, not path helpers
-- `protocol` must be `webcal`
-- `format` must be `ics`
-- `render plain` in controller
-- `cal.x_wr_calname` to set default calendar name
+[accompanying blog post]: http://www.toasterlovin.com/rails-webcal-links-with-icalendar-gem/
