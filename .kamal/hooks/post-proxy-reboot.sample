@@ -1,3 +1,0 @@
-#!/usr/bin/env sh
-
-echo "Rebooted kamal-proxy on $KAMAL_HOSTS"

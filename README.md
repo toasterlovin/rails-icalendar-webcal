@@ -5,7 +5,7 @@ the `icalendar` gem. See the [accompanying blog post] for more details. Or,
 [see the app in action].
 
 [accompanying blog post]: http://www.toasterlovin.com/rails-webcal-links-with-icalendar-gem/
-[see the app in action]: https://rails-icalendar-webcal.herokuapp.com/calendar
+[see the app in action]: https://rails-icalendar-webcal.toasterlovin.com/calendar
 
 ## Running locally
 
@@ -17,3 +17,4 @@ bin/rails test # runs the test suite
 ```
 
 Then visit http://localhost:3000 and click "subscribe".
+
