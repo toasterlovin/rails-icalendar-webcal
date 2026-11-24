@@ -15,7 +15,7 @@ gem "turbo-rails"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 # Generate iCalendar (.ics) feeds [https://github.com/icalendar/icalendar]
-gem "icalendar", "~> 2.13"
+gem "icalendar", "~> 2.14"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"

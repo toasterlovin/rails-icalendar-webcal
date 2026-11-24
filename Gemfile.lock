@@ -117,7 +117,7 @@ GEM
       activesupport (>= 6.1)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    icalendar (2.13.0)
+    icalendar (2.14.0)
       base64
       ice_cube (~> 0.16)
       logger
@@ -354,7 +354,7 @@ DEPENDENCIES
   bundler-audit
   capybara
   debug
-  icalendar (~> 2.13)
+  icalendar (~> 2.14)
   importmap-rails
   propshaft
   puma (>= 5.0)
