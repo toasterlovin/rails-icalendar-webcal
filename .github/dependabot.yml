@@ -5,3 +5,10 @@ updates:
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+  # The Rails gems share one version, so bump them in one PR.
+  groups:
+    rails:
+      patterns: [railties, "action*", "active*"]
+    rails-security:
+      applies-to: security-updates
+      patterns: [railties, "action*", "active*"]

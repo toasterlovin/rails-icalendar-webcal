@@ -12,7 +12,7 @@ the `icalendar` gem. See the [accompanying blog post] for more details. Or,
 Requires Ruby 3.4 (see `.ruby-version`).
 
 ```sh
-bin/setup      # installs gems, prepares the database, and starts the server
+bin/setup      # installs gems and starts the server
 bin/rails test # runs the test suite
 ```
 
